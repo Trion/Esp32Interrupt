@@ -1,6 +1,8 @@
 #Result 
----- Sent utf8 encoded message: "hi" ----
+[x] uart1, uart0 interrupt 
+
 ```
+---- Sent utf8 encoded message: "hi" ----
 Got 2 bytes on Serial to read
 hi
 Serial data processed!
